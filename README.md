@@ -11,15 +11,13 @@
 				'Chilling',
 			 	'Gaming',
 				'Sci-Fi Movies'
-			]
-	
+			  ]	
 	def getCity():
 		return Antalya_Turkey()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
 		FinishMyProjects()
-	
  ```
 
 ## Programming Languages
